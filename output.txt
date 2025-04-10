@@ -1,0 +1,20 @@
+17 17 31 50 59 84 86 94 96 99 
+Prime Numbers: 17 17 31 59 
+10 10 24 27 38 39 47 56 64 86 
+Prime Numbers: 47 
+4 13 34 50 62 67 76 86 92 94 
+Prime Numbers: 13 67 
+7 13 18 37 41 47 52 74 83 95 
+Prime Numbers: 7 13 37 41 47 83 
+1 36 37 59 65 77 78 88 96 100 
+Prime Numbers: 
+
+ number first found at index: 3 in row: 1
+
+ Number not found at row: 2
+
+ number first found at index: 3 in row: 3
+
+ Number not found at row: 4
+
+ Number not found at row: 5
